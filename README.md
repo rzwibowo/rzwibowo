@@ -23,7 +23,7 @@
 ---
 
 ## Reach me
-<a href="https://www.linkedin.com/in/rzwibowo/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
+[Telegram](https://t.me/rzwibowo) // [Instagram](https://instagram.com/rzwibowo) // [Web](https://wibowo-dev.web.app)
 
 <!--
 **rzwibowo/rzwibowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
