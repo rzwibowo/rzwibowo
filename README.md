@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&width=435&lines=I'm+Wibowo;I'm+a+developer;I'm+from+Java%2C+Indonesia+...;...+but+Java+isn't+my+main+language+%F0%9F%98%86)](https://git.io/typing-svg)
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzwibowo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frameworks
@@ -12,7 +14,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### Language I 'speak'
+### Language I `'speak'`
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +24,7 @@
 
 ---
 
-## Reach me
+### Reach me
 <a href="https://linkedin.com/in/rzwibowo"><img src="https://drive.google.com/uc?id=1-INHFohNdpdb-UHS-tLhmUmOsLB5RV2Y"/></a> <a href="https://t.me/rzwibowo"><img src="https://drive.google.com/uc?id=1ebMDzJH68f45xtudRo2wSuclq7_iqfNg"/></a> <a href="https://instagram.com/rzwibowo"><img src="https://drive.google.com/uc?id=1w8kQ1gX9jqkt3R1pb5reI_pt4H8RVoYt"/></a> <a href="https://wibowo-dev.web.app"><img src="https://drive.google.com/uc?id=1gduQUa0l8npBaoLfAoOHa-ZHO9T55483"/></a>
 
 <!--
