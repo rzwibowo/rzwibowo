@@ -1,10 +1,10 @@
 # Hi! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&width=435&lines=I'm+Wibowo;I'm+a+developer;I'm+from+Java%2C+Indonesia+...;...+but+Java+isn't+my+main+language+%F0%9F%98%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?&pause=1000&width=435&vCenter=true&lines=I'm+Wibowo;I'm+a+developer;I'm+from+Java%2C+Indonesia+...;...+but+Java+isn't+my+main+language)](https://git.io/typing-svg)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzwibowo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzwibowo&layout=compact&theme=radical&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frameworks
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
